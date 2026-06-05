@@ -114,3 +114,5 @@ Site completo desenvolvido para uma marca, com **sistema de carrinho de compras,
 ## 📫 Contato
 
 - Email: **rennnanmaia@gmail.com**
+
+- obs: os projetos no qual citei aqui nesse readme, eles estão privados no meu github pois são de clientes.
